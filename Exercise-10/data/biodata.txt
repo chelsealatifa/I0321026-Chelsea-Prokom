@@ -1,0 +1,6 @@
+Nama: Ceci
+Umur: 19
+Alamat: Asgard
+Nama: Chelsea
+Umur: 19
+Alamat: Tawangmangu
